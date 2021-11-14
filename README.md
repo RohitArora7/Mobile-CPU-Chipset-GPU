@@ -1,1 +1,1 @@
-# Mobile-CPU-Chipset-GPU
+# Mobile : CPU-Chipset-GPU
